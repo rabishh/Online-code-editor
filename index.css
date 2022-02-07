@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.container{
+    display:flex;
+    justify-content:space-around;
+    background-color:lightgray;
+}
+.area{
+    display:flex;
+    flex-direction:column;
+    height:100vh;
+}
+textarea{
+    width:35vw;
+    height:33vh;
+}
+#ans{
+width:60vw;
+/* margin-top:3.7rem; */
+}
